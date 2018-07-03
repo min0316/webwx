@@ -1,0 +1,54 @@
+<!--index.wxml-->
+<view>
+
+<view>
+  <swiper indicator-dots="{{indicatorDots}}"
+    autoplay="{{autoplay}}" interval="{{interval}}" duration="{duration">
+    <block wx:for="{{imgUrls}}">
+      <swiper-item>
+      <view  class="swiper-imgs">
+        <image src="{{item}}" class="slide-image" width="355" height="150"/>
+      </view>
+      </swiper-item>
+    </block>
+  </swiper>
+</view>
+<view class='ziti'>
+  <text class='zt-1'>觅乐婚礼咖啡馆</text>
+  <text class='zt-2'>地址: 云梦路云梦新城污水处理厂对面</text>
+  <text class='zt-2'>营业时间: 10 : 00-22 : 00</text>
+</view>
+  <view class='tubiao'>
+   <navigator url="/pages/index/dier.wxml?title=redirect" open-type="redirect" hover-class="other-navigator-hover">
+
+    <view class='tb-1'><image src='../../img/img-2.png'></image>咖啡</view>
+    </navigator>
+    <view class='tb-2'><image src='../../img/img-3.png'></image>主食</view>
+    <view class='tb-3'><image src='../../img/img-4.png'></image>小食</view>
+    <view class='tb-4'><image src='../../img/img-5.png'></image>派对</view>
+  </view>
+  <view class='ziti-1'>
+    <text class='ziti-1-1'>今日推荐</text>
+    <text class='ziti-1-2'>觅乐双人西式套餐</text>
+  </view>
+    
+  <view>
+  <swiper indicator-dots="{{indicatorDots}}"
+    autoplay="{{autoplay}}" interval="{{interval}}" duration="{duration">
+    <block wx:for="{{imgUrle}}">
+      <swiper-item>
+      <view  class="swiper-imgs-1">
+        <image src="{{item}}" class="slide-image-1" width="355" height="150"/>
+      </view>
+      </swiper-item>
+    </block>
+  </swiper>
+  </view>
+</view>
+
+<view class='hou'>
+  <view class='hou-1'>
+    <view class='hou-2'>一 键 拨 号</view>
+  </view>
+  <view class='hou-3'>岳阳心发现提供技术支持</view>
+</view>

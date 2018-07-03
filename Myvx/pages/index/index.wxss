@@ -1,0 +1,155 @@
+.swiper-imgs{
+  width: 100%;
+  height: 800rpx;
+}
+.swiper-imgs image {
+  width: 100%;
+  height: 750rpx;
+}
+.ziti{
+  width: 100%;
+  height: 266rpx;
+}
+.zt-1{
+  float: left;
+  width: 100%;
+  margin-top: 69rpx;
+  color:#2b2b2b;
+  margin-left: 16rpx;
+  font-weight: bold;
+}
+.zt-2{
+  float: left;
+  width: 100%;
+  margin-top: 10rpx;
+  font-size: 27rpx;
+  margin-left: 16rpx;
+  color:#727272;
+}
+.tubiao{
+  width: 100%;
+  height: 202rpx;
+}
+.tb-1{
+  float: left;
+  width: 110rpx;
+  height: 110rpx;
+  background: #35c0c5;
+  margin-left: 39rpx;
+  border-radius: 15rpx;
+  font-size: 21rpx;
+  text-align: center;
+  color: #fff;
+}
+.tb-1 image{
+  float: left;
+  width: 52rpx;
+  height: 57rpx;
+  margin: 15rpx 27rpx 5rpx 28rpx;
+}
+.tb-2{
+  float: left;
+  width: 110rpx;
+  height: 110rpx;
+  background: #6b5a53;
+  margin-left: 77rpx;
+  border-radius: 15rpx;
+  font-size: 21rpx;
+  text-align: center;
+  color: #fff;
+}
+.tb-2 image{
+  float: left;
+  width: 73rpx;
+  height: 48rpx;
+  margin: 22rpx 18rpx 5rpx 20rpx;
+}
+.tb-3{
+  float: left;
+  width: 110rpx;
+  height: 110rpx;
+  background: #f27cac;
+  margin-left: 77rpx;
+  border-radius: 15rpx;
+  font-size: 21rpx;
+  text-align: center;
+  color: #fff;
+}
+.tb-3 image{
+  float: left;
+  width: 60rpx;
+  height: 67rpx;
+  margin: 8rpx 23rpx 5rpx 25rpx;
+}
+.tb-4{
+  float: left;
+  width: 110rpx;
+  height: 110rpx;
+  background: #94a53b;
+  margin-left: 77rpx;
+  border-radius: 15rpx;
+  font-size: 21rpx;
+  text-align: center;
+  color: #fff;
+}
+.tb-4 image{
+  float: left;
+  width: 60rpx;
+  height: 67rpx;
+  margin: 8rpx 16rpx 5rpx 20rpx;
+}
+.ziti-1{
+  width: 100%;
+  height: 110rpx;
+  background: #f9f9f9;
+}
+.ziti-1-1{
+  float: left;
+  width: 100%;
+  font-size: 30rpx;
+  font-weight: bold;
+  margin: 24rpx 0 0 20rpx; 
+}
+.ziti-1-2{
+  float: left;
+  width: 100%;
+  font-size: 22rpx;
+  color:#929292;
+  margin-left: 20rpx;
+}
+.swiper-imgs-1{
+  width: 100%;
+  height: 800rpx;
+}
+.swiper-imgs-1 image {
+  width: 100%;
+  height: 750rpx;
+}
+.hou{
+  width: 100%;
+  height: 400rpx;
+}
+.hou-1{
+  width: 100%;
+  height: 71rpx;
+  margin-top: 58rpx;
+}
+.hou-2{
+  float: left;
+  width: 239rpx;
+  height: 71rpx;
+  background:  #36a08c;
+  margin-left: 252rpx;
+  border-radius: 10rpx;
+  text-align: center;
+  line-height: 71rpx;
+  color: #fff;
+  font-size: 26rpx;
+}
+.hou-3{
+  width: 100%;
+  text-align: center;
+  font-size: 26rpx;
+  color:#c0c0c2;
+  margin-top: 38rpx;
+}
